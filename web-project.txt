@@ -20,5 +20,5 @@ Idea
     - kemungkinan sangat kecil jika pwngguna aplikasi kasir akan berpindah ke aplikasi kasir yang lain. 
       karena akan membutuhkan biaya yang besar untuk mengulang input data ke aplikasi yang baru.
     + Awal pembuatan aplikasi, bekerjasama dengan toko santoso.
-- membuat team basket syar'i
+- kation design
     
