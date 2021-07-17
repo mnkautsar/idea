@@ -1,0 +1,21 @@
+Idea
+- Kamus Gizi
+  + macam macam nutrisi
+  + manfaat masing masing nutrisi
+  + kandungan nutrisi pada makanan
+- Smart School
+  + fitur administrasi sekolah -> memudahkan proses administrasi sekolah
+  + dokumentasi rekam jejak anak didik -> memudahkan proses menentukan metode didik pada setiap anak didik
+  + pusat informasi pendidikan 
+    -> info lomba, beasiswa dan program pendidikan lain. karena banyak pelajar dan mahasiswa berpotensi yang tidak bisa berprestasi hanya karena kurang mendapatkan informasi.
+    -> memudahkan Guru dan orang tua bekerjasama dalam mengawasi dan mendidik.
+- Smart City
+- Smart Medical
+  + smart ambulance. 
+    -> integrasi smart watch dgn ambulan.
+    -> memanfaatkan fitur kesehatan pada smart watch untuk mengetahui kondisi kesehatan penggunanya. sehingga jika pengguna dalam kondisi darurat, 
+    smart watch auto manggil ambulan.
+- Smart Store
+  + aplikasi kasir
+    - kemungkinan sangat kecil jika pwngguna aplikasi kasir akan berpindah ke aplikasi kasir yang lain. 
+      karena akan membutuhkan biaya yang besar untuk mengulang input data ke aplikasi yang baru.
